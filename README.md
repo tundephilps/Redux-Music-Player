@@ -1,8 +1,1 @@
-Redux Projects
-1.Counter App with Redux Toolkit
-2.Todo List with redux
-3. Login System with Redux
-4. Others coming soon
-
-
-The major Challenge am facing is Creating muiltple Redux store into a single Provider....
+A MUsic Player App Built with Redux toolkit and Rapid Api extension, Music Data fetched from the Shazam Core Api... ShoutOut to Javascript Mastery on youtube for this wonderful inspiration.
